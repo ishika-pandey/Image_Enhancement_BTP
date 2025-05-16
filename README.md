@@ -39,8 +39,8 @@ In our case:
 
 ## Sample Result
 
-| Low-Light Input | Ground Truth | Enhanced Output |
-|-----------------|--------------|-----------------|
-| ![Low-Light](samples/low_light.png) | ![GT](samples/ground_truth.png) | ![Enhanced](samples/enhanced.png) |
+ Low-Light Input  Ground Truth  Enhanced Output 
+
+ ![Low-Light](https://github.com/ishika-pandey/Image_Enhancement_BTP/blob/main/output_enhanced.png)
 
 📌 _Note: You can customize and run this on your own dataset easily._
